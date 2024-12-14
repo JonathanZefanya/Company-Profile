@@ -6,7 +6,7 @@ export default function Abouts() {
         <div className="bg-black-100 w-full h-full">
             <Navbar />
 
-            <Projects />
+            {/* <Projects /> */}
         </div>
     )
 }
