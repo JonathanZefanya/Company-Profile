@@ -47,8 +47,8 @@ export default function Navbar() {
                         <div className="px-4 pt-2 pb-3 space-y-3 sm:px-4">
                             <Link href={"/"} className="text-white block hover:bg-[#A3D8FF] hover:text-black-100 hover:px-3 hover:py-2 hover:rounded-lg transition-all duration-300 font-medium text-base">Home</Link>
                             <Link href={"/about"} className="text-white hover:bg-[#A3D8FF] hover:text-black-100 hover:px-3 hover:py-2 hover:rounded-lg transition-all duration-300 block font-medium text-base">About</Link>
-                            <Link href={"/projects"} className="text-white hover:bg-[#A3D8FF] hover:text-black-100 hover:px-3 hover:py-2 hover:rounded-lg transition-all duration-300 block font-medium text-base">Project</Link>
-                            <Link href={"/blog"} className="text-white hover:bg-[#A3D8FF] hover:text-black-100 hover:px-3 hover:py-2 hover:rounded-lg transition-all duration-300 block font-medium text-base">Blog</Link>
+                            {/* <Link href={"/projects"} className="text-white hover:bg-[#A3D8FF] hover:text-black-100 hover:px-3 hover:py-2 hover:rounded-lg transition-all duration-300 block font-medium text-base">Project</Link>
+                            <Link href={"/blog"} className="text-white hover:bg-[#A3D8FF] hover:text-black-100 hover:px-3 hover:py-2 hover:rounded-lg transition-all duration-300 block font-medium text-base">Blog</Link> */}
                             <Link href={"/services"} className="text-white hover:bg-[#A3D8FF] hover:text-black-100 hover:px-3 hover:py-2 hover:rounded-lg transition-all duration-300 block font-medium text-base">Service</Link>
                         </div>
                     </div>
