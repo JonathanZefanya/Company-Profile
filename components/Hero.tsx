@@ -31,7 +31,7 @@ export default function Hero() {
             Human Resource Management System
           </p>
 
-          <a href="http://127.0.0.1:8000/">
+          <a href="https://hrms.jojo.tirtagt.xyz/">
             <Button title="Sign Up" icon={<SiGoogle />} position="left"/>
           </a>
         </div>
